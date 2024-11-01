@@ -1,0 +1,1 @@
+EXECUTE sys.sp_help_change_feed

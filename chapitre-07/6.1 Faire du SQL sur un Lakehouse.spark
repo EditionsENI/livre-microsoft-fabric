@@ -1,0 +1,5 @@
+%%sql 
+SELECT zip_code, label, COUNT(*) FROM VentesLH.Villes
+WHERE department_number = 52
+GROUP BY zip_code, label
+LIMIT 100
