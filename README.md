@@ -7,7 +7,7 @@ Bienvenue dans le dépôt GitHub associé au livre *Microsoft Fabric - De l’an
 ## Liens essentiels
 
 - [Webographie](webographie.md)
-- [Télécharger le dépôt en ZIP](https://github.com/EditionsENI/livre-microsoft-fabric/refs/heads/main.zip)
+- [Télécharger le dépôt en ZIP](https://github.com/EditionsENI/livre-microsoft-fabric/archive/refs/heads/main.zip)
 
 ## Ressources supplémentaires
 
