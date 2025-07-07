@@ -1,0 +1,22 @@
+    CREATE TABLE dim_stockitems (
+        StockItemKey VARCHAR(255),
+        WWIStockItemID VARCHAR(255),
+        StockItem VARCHAR(255),
+        Color VARCHAR(255),
+        SellingPackage VARCHAR(255),
+        BuyingPackage VARCHAR(255),
+        Brand VARCHAR(255),
+        Size VARCHAR(255),
+        LeadTimeDays VARCHAR(255),
+        QuantityPerOuter VARCHAR(255),
+        IsChillerStock VARCHAR(255),
+        BarSourceCode VARCHAR(255),
+        TaxRate VARCHAR(255),
+        UnitPrice VARCHAR(255),
+        RecommendedRetailPrice VARCHAR(255),
+        TypicalWeightPerUnit VARCHAR(255),
+        Photo VARCHAR(255),
+        ValidFrom VARCHAR(255),
+        ValidTo VARCHAR(255),
+        LineageKey VARCHAR(255)
+    );
